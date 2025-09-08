@@ -1,6 +1,6 @@
 # Terms of Service
 
-Last updated: December 2024
+Last updated: September 8, 2025
 
 ## 1. Acceptance of Terms
 
@@ -15,23 +15,23 @@ Talent Cluster provides a job posting platform that allows users to create and p
 - Email notifications for new applications
 - Basic and Premium plan options
 
-## 3. User Responsibilities
+## 3. Employer Responsibilities
 
-Users are responsible for:
+We reserve the right to shutdown an account without reason and without refund if the account does not comply with the following responsibilities:
 
 - Providing accurate and truthful information in job postings
-- Complying with all applicable laws and regulations
-- Respecting the privacy and rights of job applicants
+- Complying with all applicable laws and regulations, including compensation, time commitment, anti-discrimination, and data privacy laws.
+- Respecting the rights of job applicants
 - Maintaining the security of their account credentials
+- Using our website only for the purpose of posting jobs
+- As an Employer, your account is for business use and not for personal use.
+- You will not engage in misuse of our website. Misuse includes, but is not limited to, submitting unfounded reports of illegal content, submitting unfounded complaints, or posting illegal content.
+
+If you attempt to send an email from a name or email address that is not true, accurate, current or complete, we reserve the right to drop such email. Attempting to send such an email is a violation of our terms.
 
 ## 4. Payment Terms
 
-Payment is required in advance for all services. Our current pricing is:
-
-- **Basic Plan:** $9 per job per month
-- **Premium Plan:** $80 per batch of 10 jobs per month (50% refundable in first 15 days)
-
-All payments are processed securely and are non-refundable except as specifically stated in the Premium Plan terms.
+Payment is required in advance for all services. An invoice is available through Stripe.
 
 ## 5. Content Policy
 
@@ -60,9 +60,8 @@ We reserve the right to modify these terms at any time. We will notify users of 
 
 ## 10. Contact Information
 
-If you have any questions about these Terms of Service, please contact us at:
+If you have any questions about these Terms of Service, please fill [our contact form](https://talent-cluster.com/contact).
 
 **Talent Cluster**  
 Hippodamia Square 8, 18531, Athens, Greece  
 EL80191833  
-Email: contact@talentcluster.com
