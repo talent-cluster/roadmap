@@ -18,8 +18,8 @@ Enterprise Plan offers everything that the Startup Plan offers plus:
 
 - 90% refundable in first 15 days
 - contact us for free whenever you want to publish a job posting
-- free migration of your job postings from other job boards
-- single vendor onboarding to publish your jobs to all big job boards and sync with your Application Tracking System (ATS)
+- free migration of your job postings from other job boards. The pipeline is managed by us and currently it does not support configurations like screensing questions.
+- single vendor onboarding to publish your jobs to all big job boards and sync with your Application Tracking System (ATS). The cost of job boards reposting and the cost of ATS are a cost of the employer but you invoice only us.
 
 ## 3. Employer Responsibilities
 
