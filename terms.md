@@ -8,7 +8,7 @@ By accessing and using Talent Cluster's job page builder service, you accept and
 
 ## 2. Service Description
 
-Service Description for employers:
+Service Description for employers and recruiters:
 
 Startup Plan offers:
 
@@ -32,9 +32,9 @@ Service Description for candidates:
 
 We reserve the right to unpublish a job posting without reason and without refund if:
 
-- it does not respond to applicants within 14 calendar days
-- it does not provide information necessary for compliance with all applicable laws and regulations. Examples for USA/Canada Federal Contractor and subcontractors are "We are an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin.", "We maintain an Affirmative Action Program and seek to recruit, hire, and promote qualified individuals from diverse backgrounds", "We will not discharge or discriminate against employees or applicants for discussing or disclosing their own pay or the pay of another employee or applicant" and "Information about your rights as an applicant is available in our Equal Employment Opportunity and non-discrimination notice which is available upon request". An example for companies in Europe is having a link to their privacy policy for candidates.
-- it does not provide accurate or any information about the company or the information provided is not verifiable. For example, no physical address or no company VAT information provided.
+- you does not respond to applicants within 14 calendar days
+- you does not provide information necessary for compliance with all applicable laws and regulations. Examples for USA/Canada Federal Contractor and subcontractors are "We are an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin.", "We maintain an Affirmative Action Program and seek to recruit, hire, and promote qualified individuals from diverse backgrounds", "We will not discharge or discriminate against employees or applicants for discussing or disclosing their own pay or the pay of another employee or applicant" and "Information about your rights as an applicant is available in our Equal Employment Opportunity and non-discrimination notice which is available upon request". An example for companies in Europe is having a link to their privacy policy for candidates.
+- you do not state when creating the job that you are a recruiter or you do not provide accurate information about the hiring company or the information provided is not verifiable. For example, no physical address or no company VAT information provided.
 - it does not respect the rights of job applicants
 - the job posting is for personal use
 - you engage in misuse of our website. Misuse includes, but is not limited to, submitting unfounded reports of illegal content, submitting unfounded complaints, or posting illegal content.
