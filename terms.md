@@ -8,11 +8,13 @@ By accessing and using Talent Cluster's job page builder service, you accept and
 
 ## 2. Service Description
 
+Service Description for employers:
+
 Startup Plan offers:
 
 - Job posting creation. Contact us once you want to unpublish it or if you want to edit the job posting or if you want to add a question to the application form.
 - Email forwarding of application to the employer
-- Email forwarding of application to the candidate
+- Embed your job posting in your website
 
 Enterprise Plan offers everything that the Startup Plan offers plus:
 
@@ -20,6 +22,11 @@ Enterprise Plan offers everything that the Startup Plan offers plus:
 - contact us for free whenever you want to publish a job posting
 - free migration of your job postings from other job boards. The pipeline is managed by us and currently it does not support configurations like screensing questions.
 - single vendor onboarding to publish your jobs to all big job boards and sync with your Application Tracking System (ATS). The cost of job boards reposting and the cost of ATS are a cost of the employer but you invoice only us.
+
+Service Description for candidates:
+
+- Email forwarding of application to the candidate
+- Email notification to the candidate when the job posting is unpublished
 
 ## 3. Employer Responsibilities
 
