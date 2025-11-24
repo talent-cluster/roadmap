@@ -8,11 +8,18 @@ By accessing and using Talent Cluster's job page builder service, you accept and
 
 ## 2. Service Description
 
-Talent Cluster provides a job posting platform that allows users to create and publish job postings. Our service includes:
+Startup Plan offers:
 
-- Job posting creation and management
-- Application collection and forwarding
-- Email notifications for new applications to candidate and employer
+- Job posting creation. Contact us once you want to unpublish it or if you want to edit the job posting or if you want to add a question to the application form.
+- Email forwarding of application to the employer
+- Email forwarding of application to the candidate
+
+Enterprise Plan offers everything that the Startup Plan offers plus:
+
+- 90% refundable in first 15 days
+- contact us for free whenever you want to publish a job posting
+- free migration of your job postings from other job boards
+- single vendor onboarding to publish your jobs to all big job boards and sync with your Application Tracking System (ATS)
 
 ## 3. Employer Responsibilities
 
