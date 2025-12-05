@@ -68,16 +68,26 @@ To exercise these rights, please contact us at contact@talentcluster.com.
 
 ## 7. Cookies and Tracking
 
-We use cookies and similar technologies to:
-- Remember your preferences
-- Analyze site usage
-- Improve user experience
+We use the following types of cookies:
 
-You can control cookie settings through your browser preferences.
+- Analytics Cookies: These cookies help us understand how visitors interact with our website by collecting and reporting information anonymously. We use PostHog, a third-party analytics service, to analyze site usage and improve our services. These cookies track page views, user interactions, and navigation patterns to help us enhance user experience and optimize our website functionality.
+- Functional Cookies: These cookies enable enhanced functionality and personalization, such as remembering your preferences and settings during your visit.
+
+Cookie Duration: We primarily use session cookies, which are temporary and are automatically deleted when you close your browser. Some analytics cookies may persist for a longer period to help us understand long-term usage patterns.
+
+Third-Party Cookies: Our website uses PostHog for analytics, which may set cookies on your device. PostHog's use of cookies is governed by their own privacy policy.
+
+Consent: By continuing to use this website, you consent to our use of cookies as described in this Privacy Policy. If you do not agree to our use of cookies, you can disable them through your browser settings, though this may affect the functionality of our website.
 
 ## 8. Third-Party Services
 
 Our service may contain links to third-party websites. We are not responsible for the privacy practices of these external sites.
+
+- PostHog — Analytics - [DPA](/posthog.pdf) - Product analytics and user behavior tracking whose Data Processed are User interactions, page views, session data
+- Stripe — Payment Processing - [DPA](https://stripe.com/legal/dpa) - Payment processing, quote generation, invoice creation whose Data Processed are Payment information, customer data, transaction details
+- Maileroo — Email Delivery - [DPA](https://maileroo.com/dpa) - Transactional email sending (confirmation emails, contact form emails). Part of the service is the email verification of the zeruh api of Maileroo whose Data Processed are Email addresses, email content, recipient information
+- Render.com — Hosting & Infrastructure - [DPA](https://render.com/dpa) - Service: Application hosting and deployment whose Data Processed are Application data, logs, infrastructure data
+- BetterStack — Monitoring - [DPA](https://betterstack.com/dpa) - Application monitoring and heartbeat checks whose Data Processed are Health check data, uptime metrics, logs
 
 ## 9. International Data Transfers
 
