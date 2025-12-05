@@ -83,7 +83,7 @@ Consent: By continuing to use this website, you consent to our use of cookies as
 
 Our service may contain links to third-party websites. We are not responsible for the privacy practices of these external sites.
 
-- PostHog — Analytics - [DPA](/posthog.pdf) - Product analytics and user behavior tracking whose Data Processed are User interactions, page views, session data
+- PostHog — Analytics - [DPA](/download/posthog.pdf) - Product analytics and user behavior tracking whose Data Processed are User interactions, page views, session data
 - Stripe — Payment Processing - [DPA](https://stripe.com/legal/dpa) - Payment processing, quote generation, invoice creation whose Data Processed are Payment information, customer data, transaction details
 - Maileroo — Email Delivery - [DPA](https://maileroo.com/dpa) - Transactional email sending (confirmation emails, contact form emails). Part of the service is the email verification of the zeruh api of Maileroo whose Data Processed are Email addresses, email content, recipient information
 - Render.com — Hosting & Infrastructure - [DPA](https://render.com/dpa) - Service: Application hosting and deployment whose Data Processed are Application data, logs, infrastructure data
