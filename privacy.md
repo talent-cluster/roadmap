@@ -106,9 +106,6 @@ We may update this Privacy Policy from time to time. We will notify you of any m
 
 ## 12. Contact Information
 
-If you have any questions about this Privacy Policy, please contact us at:
+If you have any questions about this Privacy Policy, please use our [contact form](talent-cluster.com/contact).
 
-**Talent Cluster**  
-Hippodamia Square 8, 18531, Athens, Greece  
-EL80191833  
-Email: contact@talentcluster.com
+© 2026 talent-cluster.com · Legal imprint: Rodon 7, 15233, Athens, Greece. EL80191833.
