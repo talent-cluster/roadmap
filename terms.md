@@ -87,6 +87,4 @@ We reserve the right to modify these terms at any time. We will notify users of 
 
 If you have any questions about these Terms of Service, please fill [our contact form](https://talent-cluster.com/contact).
 
-**Talent Cluster**  
-Hippodamia Square 8, 18531, Athens, Greece  
-EL80191833  
+© 2026 talent-cluster.com · Legal imprint: Rodon 7, 15233, Athens, Greece. EL80191833.
